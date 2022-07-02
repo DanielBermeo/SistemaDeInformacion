@@ -1,4 +1,4 @@
-# SistemaDeInformacion
+# Sistema De Informacion
 Practica desarrollando un sistema de información
 
 Este proyecto es libre y se realizo por medio de un guía, se agregan documentos de itelectualidad no propia 
